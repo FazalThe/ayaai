@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "devDependencies": {
+    "@supabase/supabase-js": "^2.49.4",
+    "@types/node": "^22.15.2",
+    "@types/react": "^19.1.2",
+    "next": "^15.3.1",
+    "typescript": "5.8.3"
+  },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  }
+}

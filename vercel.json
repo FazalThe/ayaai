@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd ayaai && npm run build",
+  "outputDirectory": "ayaai/.next",
+  "devCommand": "cd ayaai && npm run dev",
+  "installCommand": "cd ayaai && npm install"
+}
